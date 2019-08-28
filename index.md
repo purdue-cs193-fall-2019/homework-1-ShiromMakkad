@@ -1,4 +1,4 @@
-# Favorite Things About CS193 #
+# Favorite Things About CS193
 
 - It's run by undergraduate students
 - It teaches us to use Github
